@@ -22,6 +22,7 @@
   
 <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775187__https://wp14-images-cz-dynamic.horizon.tv/Logos/5053.f.png" xmltv_id="CT-1-HD">CT 1 HD</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775251__https://wp22-images-cz-dynamic.horizon.tv/Logos/5054.f.png" xmltv_id="CT-2-HD">CT 2 HD</channel>
+<channel update="i" site="horizon.tv" site_id="CZ/ces_925066279361__https://wp20-images-cz-dynamic.horizon.tv/Logos/9097.f.png" xmltv_id="CT-3-HD">CT 3 HD</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287056__https://wp20-images-cz-dynamic.horizon.tv/Logos/5127.f.png" xmltv_id="Nova-HD">Nova HD</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287033__https://wp27-images-cz-dynamic.horizon.tv/Logos/5136.f.png" xmltv_id="Prima-HD">Prima HD</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_759036967156__https://wp5-images-cz-dynamic.horizon.tv/Logos/8431.f.png" xmltv_id="CT-24-HD">CT 24 HD</channel>
@@ -35,6 +36,7 @@
 <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287017__https://wp19-images-cz-dynamic.horizon.tv/Logos/5134.f.png" xmltv_id="Prima-COOL-HD">Prima COOL HD</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775215__https://wp22-images-cz-dynamic.horizon.tv/Logos/5139.f.png" xmltv_id="Prima-ZOOM-HD">Prima ZOOM HD</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863137__https://wp19-images-cz-dynamic.horizon.tv/Logos/769702.f.png" xmltv_id="Prima-love-HD">Prima love HD</channel>
+<channel update="i" site="horizon.tv" site_id="CZ/ces_930355239074__https://wp15-images-cz-dynamic.horizon.tv/Logos/9096.f.png" xmltv_id="CNN-Prima-News">CNN Prima News</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863136__https://wp17-images-cz-dynamic.horizon.tv/Logos/769676.f.png" xmltv_id="Prima-MAX-HD">Prima MAX HD</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775246__https://wp8-images-cz-dynamic.horizon.tv/Logos/5039.f.png" xmltv_id="Barrandov-TV-HD">Barrandov TV HD</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495297__https://wp23-images-cz-dynamic.horizon.tv/Logos/7230.f.png" xmltv_id="Kino-Barrandov-HD">Kino Barrandov HD</channel>
