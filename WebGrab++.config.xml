@@ -158,5 +158,6 @@
 <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775221__https://wp25-images-cz-dynamic.horizon.tv/Logos/7004.f.png" xmltv_id="Russia-Today-HD">Russia Today HD</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495293__https://wp22-images-cz-dynamic.horizon.tv/Logos/7218.f.png" xmltv_id="KBS-World-HD">KBS World HD</channel>
 <channel update="i" site="horizon.tv" site_id="CZ/ces_624788007000__https://wp28-images-cz-dynamic.horizon.tv/Logos/0132.f.png" xmltv_id="CGTN">CGTN</channel>
+<channel update="i" site="nasa-tv-uhd" site_id="NASA-logo-200x200" xmltv_id="NASA-TV-UHD">NASA TV UHD</channel>
  
 </settings>
